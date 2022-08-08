@@ -5,7 +5,7 @@
 
 ## Skills
 :keyboard:
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
