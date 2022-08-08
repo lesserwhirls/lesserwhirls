@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=4AB197)
 
@@ -26,10 +27,12 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Gentoo%20Linux-informational?style=flat&logo=gentoo&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Ubuntu%20Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-macOS-informational?style=flat&logo=macos&logoColor=white&color=4AB197)
 
-## Currently Learning
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+## Current Exploration
+![](https://img.shields.io/badge/Certification-AWS%20Certified%20Developer%20–%20Associate-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/VCS-Perforce-informational?style=flat&logo=perforce&logoColor=white&color=4AB197)
 
 <!--
 **lesserwhirls/lesserwhirls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
