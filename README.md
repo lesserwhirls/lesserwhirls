@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=046B99)
 ![](https://img.shields.io/badge/-macOS-informational?style=flat&logo=macos&logoColor=white&color=046B99)
 
+<!--
 ## Current Exploration
 ![](https://img.shields.io/badge/Certification--informational?style=flat&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/-AWS%20Certified%20Developer%20–%20Associate-informational?style=flat&logo=amazonaws&logoColor=white&color=046B99)
@@ -47,7 +48,7 @@
 ![](https://img.shields.io/badge/VCS--informational?style=flat&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/-Perforce-informational?style=flat&logo=perforce&logoColor=white&color=046B99)
 
-<!--
+
 **lesserwhirls/lesserwhirls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
