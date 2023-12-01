@@ -1,7 +1,8 @@
 [![@lesserwhirls's Holopin board](https://holopin.io/api/user/board?user=lesserwhirls)](https://holopin.io/@lesserwhirls)
 
-:wave:
-[![Twitter Badge](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/lesserwhirls)
+# Hello! :wave:
+
+Find me on [![Twitter Badge](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/lesserwhirls)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin)](https://www.linkedin.com/in/seancarms/)
 
 ## Skills
