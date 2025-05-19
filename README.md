@@ -45,7 +45,9 @@ Find me on [![Twitter Badge](https://img.shields.io/badge/Twitter--informational
 
 ## Current Exploration
 ![Current Exploration - DevOps](https://img.shields.io/badge/DevOps--informational?style=flat&labelColor=grey&color=grey)
-![Terraform with vSphere](https://img.shields.io/badge/-Terraform%20with%20vSphere-informational?style=flat&logo=terraform&logoColor=white&color=046B99)
+![Perforce](https://img.shields.io/badge/-Perforce-informational?style=flat&logo=perforce&logoColor=white&color=046B99)
+🤝
+![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=046B99)
 
 <!--
 <BR>
