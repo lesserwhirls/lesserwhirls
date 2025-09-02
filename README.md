@@ -2,7 +2,8 @@
 
 # Hello! :wave:
 
-Find me on [![Twitter Badge](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/lesserwhirls)
+Find me on [![BlueSky Badge](https://img.shields.io/badge/BlueSky--informational?style=social&logo=bluesky)](https://bsky.app/profile/lesserwhirls.bsky.social)
+[![X Badge](https://img.shields.io/badge/X--informational?style=social&logo=x)](https://twitter.com/lesserwhirls)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin)](https://www.linkedin.com/in/seancarms/)
 
 ## Skills
@@ -12,10 +13,16 @@ Find me on [![Twitter Badge](https://img.shields.io/badge/Twitter--informational
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=046B99)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=046B99)
 ![Go (Golang)](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=046B99)
+![Ruby](https://img.shields.io/badge/-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=046B99)
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Documentation Experience](https://img.shields.io/badge/Documentation--informational?style=flat&labelColor=grey&color=grey)
+![Jekyll](https://img.shields.io/badge/-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=046B99)
+![Markdown](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=046B99)
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Shell Experience](https://img.shields.io/badge/Shell--informational?style=flat&labelColor=grey&color=grey)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=046B99)
 ![Powershell](https://img.shields.io/badge/-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=046B99)
+![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=046B99)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Tool Experience](https://img.shields.io/badge/Build--informational?style=flat&labelColor=grey&color=grey)
 ![Gradle](https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=046B99)
@@ -45,9 +52,9 @@ Find me on [![Twitter Badge](https://img.shields.io/badge/Twitter--informational
 
 ## Current Exploration
 ![Current Exploration - DevOps](https://img.shields.io/badge/DevOps--informational?style=flat&labelColor=grey&color=grey)
-![Perforce](https://img.shields.io/badge/-Perforce-informational?style=flat&logo=perforce&logoColor=white&color=046B99)
+![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=046B99)
 🤝
-![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=046B99)
+![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=046B99)
 
 <!--
 <BR>
